@@ -17,7 +17,7 @@ const projects = [
       "A task manager app with prioritization, timer, dark mode, and AI chatbot.",
     image: "/projects/project2.png",
     tags: ["MongoDb", "HTML/CSS", "Node.Js"],
-    demoUrl: "#",
+    demoUrl: " https://sharma0utkarsh.github.io/Task-Manager/",
     githubUrl: "https://github.com/Sharma0Utkarsh/Task-Manager.git",
   },
   {
